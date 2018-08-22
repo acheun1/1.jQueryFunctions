@@ -1,0 +1,25 @@
+div {
+    border-bottom: 3px solid black;
+}
+div h1 {
+    text-align: center;
+}
+div p {
+    display: inline-block;
+    text-align: center;
+    width: 500px;
+    margin-left: 80px;
+}
+.red {
+    color: red;
+}
+#show h2, #slideDown h2 {
+    display: none;
+}
+#fadein h1{
+    display: none;
+    text-align: center;
+    background-color: gray
+}
+
+
